@@ -1,3 +1,5 @@
+Please enable fullscreen for the intended aspect ratio.
+
 Controls;
 
 W, Space, Upper arrow key- Jump
