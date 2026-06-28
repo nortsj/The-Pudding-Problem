@@ -1,5 +1,7 @@
 Please enable fullscreen for the intended aspect ratio.
 
+Game not functional on mobile and there are no plans to add this.
+
 Controls;
 
 W, Space, Upper arrow key- Jump
